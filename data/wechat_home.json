@@ -1,0 +1,108 @@
+{
+	"msgtype": 0,
+	"msg": {
+		"weixin": [
+			{
+				"imgUrl": "../img/icon/icon.png",
+				"title": "电二浪了么",
+				"desc": "你谁啊：妖。。。",
+				"time": "刚刚"
+			},
+			{
+				"imgUrl": "../img/pic/ws.jpg",
+				"title": "我是美女",
+				"desc": "额。。。",
+				"time": "晚上19:58"
+			},
+			{
+				"imgUrl": "../img/pic/wq.jpg",
+				"title": "不知道哪一个国家的",
+				"desc": "快还钱！！！",
+				"time": " 下午18:00"
+			},
+			{
+				"imgUrl": "../img/icon/a6l.png",
+				"title": "qq离线助手",
+				"desc": "有种打我啊：呵呵",
+				"time": "早上10:11"
+			},
+			{
+				"imgUrl": "../img/pic/wr.jpg",
+				"title": "Jane",
+				"desc": "100元抢购荣耀7...",
+				"time": "昨天"
+			},
+			{
+				"imgUrl": "../img/icon/ajb.png",
+				"title": "不鸟你",
+				"desc": "滚。。。",
+				"time": "8月20日"
+			},
+			{
+				"imgUrl": "../img/pic/wo.jpg",
+				"title": "我是你哥",
+				"desc": "还钱吧",
+				"time": "8月18日"
+			},
+			{
+				"imgUrl": "../img/icon/icon.png",
+				"title": "微信团队",
+				"desc": "欢迎使用微信",
+				"time": "6月10日"
+			}
+		],
+		"contact": [
+			{
+				"index": "A",
+				"persons": [
+					{
+						"imgUrl": "../img/icon/icon.png",
+						"title": "XXXX"
+					},
+					{
+						"imgUrl": "../img/icon/icon.png",
+						"title": "XXXX"
+					},
+					{
+						"imgUrl": "../img/icon/icon.png",
+						"title": "XXXX"
+					},
+					{
+						"imgUrl": "../img/icon/icon.png",
+						"title": "XXXX"
+					}
+				]
+			},
+			{
+				"index": "B",
+				"persons": [
+					{
+						"imgUrl": "../img/icon/icon.png",
+						"title": "XXXX"
+					},
+					{
+						"imgUrl": "../img/icon/icon.png",
+						"title": "XXXX"
+					},
+					{
+						"imgUrl": "../img/icon/icon.png",
+						"title": "XXXX"
+					}
+				]
+			},
+			{
+				"index": "C",
+				"persons": [
+					{
+						"imgUrl": "../img/icon/icon.png",
+						"title": "XXXX"
+					},
+					{
+						"imgUrl": "../img/icon/icon.png",
+						"title": "XXXX"
+					}
+				]
+			}
+		]
+	}
+}
